@@ -1,0 +1,37 @@
+ros-indigo-smarthome-comm-msgs (0.1.19-0trusty) trusty; urgency=high
+
+  * Rename package to smarthome_comm_msgs
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Mon, 30 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-comm-msgs (0.1.18-0trusty) trusty; urgency=high
+
+  * Add changelog
+  * Contributors: Mickael Gaillard
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 28 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-comm-msgs (0.1.17-0trusty) trusty; urgency=high
+
+  * Update package name
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 28 May 2016 21:27:00 -0000
+
+ros-indigo-smarthome-comm-msgs (0.1.14-0trusty) trusty; urgency=high
+
+  * Add license
+  * Update package file description
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 28 May 2016 17:51:00 -0000
+
+ros-indigo-smarthome-comm-msgs (0.1.1-0trusty) trusty; urgency=high
+
+  * Initial commit
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sun, 08 Nov 2015 15:53:00 -0000
+
+
